@@ -1,8 +1,14 @@
 # Olá, eu sou o Wendel Nunes! 👋
 
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wen-nunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wen-nunes&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ### 👨‍💻 Sobre Mim
 - 🎓 Graduando em **Sistemas de Informação** na **Universidade Franciscana (UFN)**.
-- 🎂 26 anos.
 - 📍 Santa Maria - RS.
 - 🚀 Atualmente focado em aprimorar meus conhecimentos em desenvolvimento Backend e Arquitetura de Sistemas.
 
