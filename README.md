@@ -1,6 +1,5 @@
 # Olá, eu sou o Wendel Nunes! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Wen-nunes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Graduando em **Sistemas de Informação** na **Universidade Franciscana (UFN)**.
